@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @codervm15
-- 👀 I’m interested in Web Development and Cybersecurity.
-- 🌱 I’m currently learning Web Development.
+- 👀 I’m interested in AI/ML/DL and Cybersecurity.
+- 🌱 I’m currently learning Machine Learning & Deep Learning algorithms.
 
 
