@@ -47,14 +47,12 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codervm15&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codervm15&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="140"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=codervm15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codervm15&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
-
-<sub>`>` Understand how it breaks. Then defend it. `_`</sub>
-
-</div>
+<p align="center"><sub><i>"Understand how it breaks. Then defend it."</i></sub></p>
 
 ### 🤝 Let's Connect
 
