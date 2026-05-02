@@ -47,12 +47,16 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codervm15&show_icons=true&theme=transparent&hide_border=true&hide_title=true&count_private=true" height="140"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codervm15&layout=compact&theme=transparent&hide_border=true&langs_count=6" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codervm15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Vikrant's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codervm15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
 </p>
 
-<p align="center"><sub><i>"Understand how it breaks. Then defend it."</i></sub></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=codervm15&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
 ### 🤝 Let's Connect
 
