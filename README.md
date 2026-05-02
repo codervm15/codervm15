@@ -14,11 +14,10 @@
 ### 🧠 About Me
 
 - 🔐 Security Engineer at **[Arctic Wolf](https://arcticwolf.com/)** — defending organizations against modern cyber threats
-- 🔭 Working at the intersection of **AI/ML** and **Cybersecurity**
-- 🌱 Currently exploring **Transformers, LLMs**
-- 🛡️ Passionate about building tools that detect threats — phishing URLs, malicious patterns, cyber threat intelligence
+- 🔭 Love working at the intersection of **AI/ML** and **Cybersecurity**
+- 🌱 Currently exploring **Transformers, LLMs, Detection Engineering**
 - 📍 Based in **Canada** 🇨🇦
-- 💬 Ask me about **Threat Detection, NLP, or Deep Learning**
+- 💬 Ask me about **Incident Response, Security Operations, Threat Detection, NLP, or Deep Learning**
 - ⚡ Fun fact: I believe the best way to defend systems is to understand how to break them
 
 ---
@@ -46,33 +45,20 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
-
-### 🚀 Featured Projects
-
-🔐 **[TransPhishURL](https://github.com/codervm15/TransPhishURL)**  
-Transformer-based framework that classifies URLs as malicious or benign using both lexical and textual features.
-
-🛡️ **[NER for Cyber Threat Intelligence](https://github.com/codervm15/NER_CTI)**  
-Named Entity Recognition models tailored for the cybersecurity domain to extract threat indicators from unstructured text.
-
-🧪 **[Transformers Finetuning](https://github.com/codervm15/Transformers_Finetuning)**  
-Hands-on experiments fine-tuning various LLMs across diverse NLP datasets.
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codervm15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vikrant's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codervm15&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codervm15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Vikrant's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codervm15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codervm15&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=codervm15&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codervm15&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
+</p>
 
 ### 🤝 Let's Connect
 
