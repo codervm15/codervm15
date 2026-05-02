@@ -45,17 +45,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-### 📊 GitHub Stats
 
 ### 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codervm15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Vikrant's GitHub stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codervm15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=codervm15&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ### 🤝 Let's Connect
