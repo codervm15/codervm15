@@ -47,18 +47,14 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codervm15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Vikrant's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codervm15&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=codervm15&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=codervm15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codervm15&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160"/>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codervm15&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</p>
+<sub>`>` Understand how it breaks. Then defend it. `_`</sub>
+
+</div>
 
 ### 🤝 Let's Connect
 
