@@ -15,10 +15,9 @@
 
 - 🔐 Security Engineer at **[Arctic Wolf](https://arcticwolf.com/)** — defending organizations against modern cyber threats
 - 🔭 Love working at the intersection of **AI/ML** and **Cybersecurity**
-- 🌱 Currently exploring **Transformers, LLMs, Detection Engineering**
+- 🌱 Currently exploring **AI4Cyber, Adversarial Machine Learning, Transformers, LLMs, Detection Engineering**
 - 📍 Based in **Canada** 🇨🇦
-- 💬 Ask me about **Incident Response, Security Operations, Threat Detection, NLP, or Deep Learning**
-- ⚡ Fun fact: I believe the best way to defend systems is to understand how to break them
+- 💬 Ask me about **Incident Response, Security Operations, Threat Detection, Threat Hunting, NLP, or Deep Learning**
 
 ---
 
@@ -38,13 +37,21 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-**Security & Tools**  
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🛡️ Security Toolkit
 
+**What I do**  
+Incident Response · Threat Hunting · Alert Triage · Detection Engineering · Alert Investigation · Endpoint Forensics · MITRE ATT&CK Mapping
+
+*Hands-on production experience across the stack —*
+```
+SIEM            →  Splunk · Microsoft Sentinel · IBM QRadar
+EDR / XDR       →  Microsoft Defender for Endpoint · Aurora Endpoint
+SOAR            →  Palo Alto Cortex XSOAR · AW SOAR Solutions
+Threat Intel    →  MITRE ATT&CK · OSINT · IOC Enrichment
+Recon & Pentest →  Nmap · Burp Suite · Metasploit · OWASP ZAP
+Forensics       →  Wireshark · Kali Linux · Log & Endpoint Analysis
+Workflows       →  SOC Operations · Incident Response · Threat Hunting · Detection Engineering
+```
 
 ### 📊 GitHub Stats
 <p align="center">
