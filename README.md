@@ -16,7 +16,6 @@
 - 🔐 Security Engineer at **[Arctic Wolf](https://arcticwolf.com/)** — defending organizations against modern cyber threats
 - 🔭 Love working at the intersection of **AI/ML** and **Cybersecurity**
 - 🌱 Currently exploring **AI4Cyber, Adversarial Machine Learning, Transformers, LLMs, Detection Engineering**
-- 📍 Based in **Canada** 🇨🇦
 - 💬 Ask me about **Incident Response, Security Operations, Threat Detection, Threat Hunting, NLP, or Deep Learning**
 
 ---
